@@ -23,5 +23,5 @@ These are like technologies that I've been focusing on at the moment:
 
 ## 🛠️ Tools
 
-I've been using Visual Studio Code to work on my codes, Figma, GIMP, Photoshop for graphic design.
+I've been using Visual Studio Code to work on my codes and Figma, GIMP, Photoshop for graphic design.
 
