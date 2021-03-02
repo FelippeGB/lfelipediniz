@@ -22,7 +22,10 @@ These are like technologies that I've been focusing on at the moment:
 
 I've been using Visual Studio Code to work on my codes and Figma, GIMP, Photoshop for graphic design.
 
-<h2 align="center"> ## ✍️ You can contact me by </h2>
+<h2 align="center"> ✍️ You can contact me by </h2>
 
+<p align="center">
 
 [![MAIL](./images/message.svg)](mailto:lfelipediniz@outlook.com)
+
+</p>
