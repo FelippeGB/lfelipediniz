@@ -1,4 +1,10 @@
 ﻿# Hey there 👋
+ 
+My name is Luiz Felipe Diniz Costa, I am 16 years old and I am currently taking the third year of the Systems Development course at ETEC Camargo Aranha, São Paulo, Brazil.
+
+## 🎯 Main Technologies
+
+These are like technologies that I've been focusing on at the moment:
 
 ![HTML](./images/html.svg)
 ![CSS](./images/css.svg)
@@ -7,3 +13,10 @@
 ![REACT](./images/react.svg)
 ![TYPESCRIPT](./images/ts.svg)
 
+## 🛠️ Tools
+
+I've been using Visual Studio Code to work on my codes, Figma, GIMP, Photoshop for graphic design. 
+
+#### ★ Curiosity
+
+I own the PermaCache community in the discord!
