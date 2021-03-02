@@ -24,20 +24,21 @@ I've been using Visual Studio Code to work on my codes and Figma, GIMP, Photosho
 
 <h2 align="center"> ✍️ You can contact me by </h2>
 
-<p align="center">
 
- <a href="mailto:lfelipediniz@outlook.com">
- <img src="https://raw.githubusercontent.com/lfelipediniz/lfelipediniz/a1825711d7a164d8a29da0eada83852d8d16259e/images/message.svg"> &nbsp; &nbsp;
+<a href="mailto:lfelipediniz@outlook.com">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+
+<img src="https://raw.githubusercontent.com/lfelipediniz/lfelipediniz/a1825711d7a164d8a29da0eada83852d8d16259e/images/message.svg"> &nbsp; &nbsp;
 
 
 
-  <a href="https://twitter.com/lfdinizcosta">
+<a href="https://twitter.com/lfdinizcosta">
  <img src="https://raw.githubusercontent.com/lfelipediniz/lfelipediniz/b552ad43092acb4eb4d55ef154bc526cc8cf2103/images/twitter.svg"> &nbsp; &nbsp;
 
-   <a href="none">
+<a href="none">
  <img src="https://raw.githubusercontent.com/lfelipediniz/lfelipediniz/018899af356a2d50e491d09e26e2e6a210fa0f0c/images/linkedin.svg">
 
-</p>
+
 
 
 
