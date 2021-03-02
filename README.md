@@ -7,7 +7,7 @@ My name is Luiz Felipe Diniz Costa, I am 16 years old and I am currently taking 
 ## 🎯 Main Technologies
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfelipediniz" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfelipediniz&theme=dark" />
 
 These are like technologies that I've been focusing on at the moment:
 
