@@ -26,6 +26,9 @@ I've been using Visual Studio Code to work on my codes and Figma, GIMP, Photosho
 
 <p align="center">
 
-[![MAIL](./images/message.svg)](mailto:lfelipediniz@outlook.com)
+ <img src="https://raw.githubusercontent.com/lfelipediniz/lfelipediniz/b6033b48c010ba9ac28184ce88e8110b9dc93d21/images/message.svg">
 
 </p>
+
+
+
