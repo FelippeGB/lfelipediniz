@@ -27,7 +27,8 @@ I've been using Visual Studio Code to work on my codes and Figma, GIMP, Photosho
 <p align="center">
 
  <a href="mailto:lfelipediniz@outlook.com">
- <img src="https://img.shields.io/badge/%20-Instagram-ff69b4?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gabs.j3sus/">
+ <img src="https://raw.githubusercontent.com/lfelipediniz/lfelipediniz/a1825711d7a164d8a29da0eada83852d8d16259e/images/message.svg">
+
 
 </p>
 
