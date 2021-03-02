@@ -1,8 +1,8 @@
 ﻿# Hey there 👋
 
-
-![REACT](./images/react.svg)
-![TYPESCRIPT](./images/ts.svg)
+![HTML](./images/html.svg)
+![CSS](./images/cs.svg)
 ![NODE](./images/node.svg)
+![TYPESCRIPT](./images/ts.svg)
+![REACT](./images/react.svg)
 ![PHP](./images/php.svg)
-![HTMLCSS](./images/html&css.svg)
