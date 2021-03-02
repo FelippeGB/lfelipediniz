@@ -2,7 +2,8 @@
 
 ![HTML](./images/html.svg)
 ![CSS](./images/css.svg)
-![NODE](./images/node.svg)
-![TYPESCRIPT](./images/ts.svg)
-![REACT](./images/react.svg)
 ![PHP](./images/php.svg)
+![NODE](./images/node.svg)
+![REACT](./images/react.svg)
+![TYPESCRIPT](./images/ts.svg)
+
