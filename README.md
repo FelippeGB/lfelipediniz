@@ -22,7 +22,7 @@ These are like technologies that I've been focusing on at the moment:
 
 I've been using Visual Studio Code to work on my codes and Figma, GIMP, Photoshop for graphic design.
 
-## Contact me
+## ✍️ Contact me
 
 You can contact me by:
 
