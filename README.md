@@ -17,6 +17,4 @@ These are like technologies that I've been focusing on at the moment:
 
 I've been using Visual Studio Code to work on my codes, Figma, GIMP, Photoshop for graphic design. 
 
-#### ★ Curiosity
-
-I own the PermaCache community in the discord!
+★ Curiosity: *I own the [PermaCache](https://discord.gg/UeutKXCBpG) community in the discord!*
