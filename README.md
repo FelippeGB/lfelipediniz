@@ -6,7 +6,6 @@ My name is Luiz Felipe Diniz Costa, I am 16 years old and I am currently taking 
 
 ## 🎯 Main Technologies
 
-
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfelipediniz" />
 
 These are like technologies that I've been focusing on at the moment:
@@ -19,9 +18,12 @@ These are like technologies that I've been focusing on at the moment:
 ![REACT](./images/react.svg)
 ![TYPESCRIPT](./images/ts.svg)
 
-
-
 ## 🛠️ Tools
 
 I've been using Visual Studio Code to work on my codes and Figma, GIMP, Photoshop for graphic design.
 
+## Contact me
+
+You can contact me by:
+
+[![MAIL](./images/message.svg)](mailto:lfelipediniz@outlook.com)
