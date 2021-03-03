@@ -13,10 +13,11 @@ These are like technologies that I've been focusing on at the moment:
 
 ![HTML](./images/html.svg)
 ![CSS](./images/css.svg)
+![PHP](./images/php.svg)
 ![NODE](./images/node.svg)
 ![REACT](./images/react.svg)
 ![TYPESCRIPT](./images/ts.svg)
-![PHP](./images/php.svg)
+
 
 ## 🛠️ Tools
 
