@@ -18,6 +18,7 @@ These are like technologies that I've been focusing on at the moment:
 ![REACT](./images/react.svg)
 ![TYPESCRIPT](./images/ts.svg)
 
+
 ## 🛠️ Tools
 
 I've been using Visual Studio Code to work on my codes and Figma, GIMP, Photoshop for graphic design.
