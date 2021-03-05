@@ -36,7 +36,7 @@ I've been using Visual Studio Code to work on my codes and Figma, GIMP, Photosho
 
  
  
-<a href="none">
+<a href="https://www.linkedin.com/in/luiz-felipe-diniz-costa-779689208/">
  <img src="https://raw.githubusercontent.com/lfelipediniz/lfelipediniz/018899af356a2d50e491d09e26e2e6a210fa0f0c/images/linkedin.svg">
 
 
