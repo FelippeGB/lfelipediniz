@@ -25,8 +25,6 @@ I've been using Visual Studio Code to work on my codes and Figma, GIMP, Photosho
 
 <h2 align="center"> ✍️ You can contact me by </h2>
 
-
-
 <a href="mailto:lfelipediniz@outlook.com">
 <img src="https://raw.githubusercontent.com/lfelipediniz/lfelipediniz/a1825711d7a164d8a29da0eada83852d8d16259e/images/message.svg"> &nbsp; &nbsp;
 
