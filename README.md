@@ -10,6 +10,7 @@ My name is Luiz Felipe Diniz Costa, I am 16 years old and I am currently taking 
 
 These are like technologies that I've been focusing on at the moment:
 
+Jaaaaaaaaaaaaaaaaaaaaaaama
 
 ![HTML](./images/html.svg)
 ![CSS](./images/css.svg)
